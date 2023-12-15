@@ -1,0 +1,41 @@
+body{
+  background-color: #FDFFF7
+}
+h1{
+  font-size:400%;
+  font-family:"Arial";
+
+}
+p{
+  font-family:"Arial";
+  font-size:150%;
+}
+img{
+  width:400px
+}
+ul{
+  text-align: center;
+  list-style-type: none;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 10px;
+  color: black;
+  font-family: Arial;
+  text-decoration: none;
+  
+}
+li a:hover{
+  border-bottom-style: solid;
+}
+li a{
+  margin: 10px;
+}
+iframe{
+  float: left;
+  margin-left: 590px;
+}
+
+
