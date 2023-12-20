@@ -1,5 +1,6 @@
 body{
-  background-color: #FDFFF7
+    background: linear-gradient(#BCBDC0 0%, #BCBDC0 3.5%, #FDFFF7 3.5%, #FDFFF7 100%);
+  background: linear-gradient(to right, #FDFFF7 0%, #FDFFF7 30%, #A6A6A8 30%, #A6A6A8 70%, #FDFFF7 70%, #FDFFF7 100%)
 }
 h1{
   font-size:400%;
@@ -16,6 +17,7 @@ img{
 ul{
   text-align: center;
   list-style-type: none;
+  position: fixed;
 }
 li{
   float: left;
@@ -33,4 +35,3 @@ li a:hover{
 li a{
   margin: 10px;
 }
-
